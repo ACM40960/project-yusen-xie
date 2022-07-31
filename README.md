@@ -20,8 +20,8 @@
 ## _Install_
 ####  Python version
 >If your computer does not have the python component, first we need to download the installer from the Python website. https://www.python.org/downloads/
-According to your operating system, on the web page, choose to download the latest version of the Python installer, my computer is running the project using Python 3.8.2 (note that python versions are updated frequently).
-![image](https://github.com/ACM40960/project-yusen-xie/blob/main/Figure_.5png)
+According to your operating system, on the web page, choose to download the latest version of the Python installer(note that python versions are updated frequently).
+![image](https://github.com/ACM40960/project-yusen-xie/blob/main/Figure_5.png)
 
 > This project uses opencv and Pytorch. 
 >Go check them out if you don't have them locally installed.

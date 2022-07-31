@@ -51,6 +51,17 @@ python3 train.py
 python3 Detect_Plate.py --target "the name of image"
 ```
 ## car plate classification modelling
+
+>The code is divided into four parts, which are Preprocess,model,train,Detect_Plate.
+
+> processs.py  processes the image, and then model.py builds the model.
+
+>train.py is divided into three parts, which are hypothesis, data loading, train
+
+>Finally Detect_plate.pv,Using open_CV and CNN model "LeNet" to detect Car License number
+
+
+
 ## _Example_
 
 ```sh

@@ -38,7 +38,7 @@ pip install matplotlib==3.3.4
 >For any program, after we have installed the necessary components, it's time to prepare the data
 >The data has been uploaded to my Google Drive, and I have uploaded a copy on github.
 
->Here is the Link to Google Drive:
+>Here is the Link to Google Drive:https://drive.google.com/drive/folders/1Grli6Q_1cK0o39csBhfXTU10vbNV-PnB?usp=sharing
 
 ## _Usage_
 > Firstly, CNN Model must be trained if there is no 'model.pkt'

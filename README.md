@@ -18,7 +18,11 @@
 >You can compile them with any compiler that can edit .py files such as pycharm or jupyter.
 
 ## _Install_
-### Python version
+####  Python version
+>If your computer does not have the python component, first we need to download the installer from the Python website. https://www.python.org/downloads/
+According to your operating system, on the web page, choose to download the latest version of the Python installer, my computer is running the project using Python 3.8.2 (note that python versions are updated frequently).
+
+
 > This project uses opencv and Pytorch. 
 >Go check them out if you don't have them locally installed.
 ```sh

@@ -3,7 +3,7 @@
 
 - [_Automatic License Number Plate Detection And Recognition_]()
   - [_Background_](#background)
-  - [_Install_](#install)
+  - [ _Tools and Install_](#install)
   - [_Usage_](#usage)
   - [_Example_](#example)
   - [_Performance_](#performance)

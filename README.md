@@ -3,6 +3,7 @@
 
 - [_Automatic License Number Plate Detection And Recognition_]()
   - [_Background_](#background)
+  - [_Tools_](#Tools)
   - [_Install_](#Install)
   - [_Usage_](#usage)
   - [_Example_](#example)
@@ -13,9 +14,11 @@
 
 > License plate recognition system (Vehicle License Plate Recognition) is an application of computer video image recognition technology in vehicle license plate recognition. Usually a license plate recognition system mainly includes the following four parts: vehicle image acquisition, license plate positioning, license plate character segmentation, license plate recognition Character recognition. This project is implemented through OpenCV and convolutional neural network(CNN).
 
-## _Install_
->You can compile them with any compiler that can edit .py files.
+## _Tools_
+>You can compile them with any compiler that can edit .py files such as pycharm or jupyter.
 
+## _Install_
+### Python version
 > This project uses opencv and Pytorch. 
 >Go check them out if you don't have them locally installed.
 ```sh

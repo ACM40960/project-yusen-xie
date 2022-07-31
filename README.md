@@ -44,10 +44,6 @@ python3 Detect_Plate.py --target images/Cars1.png
 ![image](https://github.com/ACM40960/project-yusen-xie/blob/main/Figure_3.png)
 ![image](https://github.com/ACM40960/project-yusen-xie/blob/main/Figure_4.png)
 
-
-## Conclusion
-With the increasing number of vehicles, vehicle tracking has become an important research area for effective traffic control, surveillance and finding stolen vehicles. For this reason, efficient real-time license plate detection and recognition is very important for any country. License plate recognition is a huge challenge in developing countries due to variations in background and font colors, font styles, sizes, and non-standard characters of license plates. To overcome these problems, this study uses a deep learning strategy to improve the efficiency of license plate recognition. The collected images were captured under different lighting/contrast conditions, distance from the camera, and different rotation angles, and were verified to produce high recognition rates. The method helps law enforcement agencies and private organizations to use it effectively to improve homeland security. Future work may include training and validation of existing algorithms using a hybrid classifier approach, as well as improving the stability of license plate recognition systems under different weather conditions.
-
 ## Author
 Yusen Xie , Ning Xu
 

@@ -16,7 +16,7 @@ characters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 output = []
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--target',type=str,default='images/Cars1.png',help='input, star16 or ch34')
+parser.add_argument('--target',type=str,default='images/Cars1.png')
 args = parser.parse_args()
 
 

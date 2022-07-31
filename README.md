@@ -25,6 +25,8 @@ According to your operating system, on the web page, choose to download the late
 
 > This project uses opencv and Pytorch. 
 >Go check them out if you don't have them locally installed.
+
+>The following packages are installed via windows+cmd, enter the system, if it fails, please pip install --upgrade pip, if the installation fails and prompts for permission, please add --user, after pip install imutils, to achieve successful installation
 ```sh
 pip install opencv-python==4.6.0.66
 conda install pytorch torchvision torchaudio cpuonly -c pytorch

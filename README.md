@@ -5,7 +5,7 @@
   - [_Background_](#background)
   - [_Tools_](#Tools)
   - [_Install_](#Install)
-  - [_downloaddata_](#downloaddata)
+  * [download data](#downloaddata)
   - [_Usage_](#usage)
   - [_Example_](#example)
   - [_Performance_](#performance)
